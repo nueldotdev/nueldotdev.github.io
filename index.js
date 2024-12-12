@@ -1,3 +1,4 @@
+window.location.href = "https://nueldotdev.vercel.app"
 
 window.onscroll = function() {stickyNavbar()};
 
